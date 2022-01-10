@@ -7,13 +7,13 @@
 - 😊 Pronouns: 🇬🇧 She/her - 🇪🇸 Ella
 - 🌱 I’m currently learning: Advanced Javascript
 - 📈 I want to learn: React, Vue, Swift
-- 📢 Languages spoken: Spanish (native), English (C1-ish)
-- 📬 How to reach me: [LinkedIn](https://www.linkedin.com/in/cbmorales/?locale=en_US)
+- 📢 Languages spoken: 🇪🇸 Spanish (native), 🇬🇧 English (C1-ish)
+- 📬 How to reach me: [LinkedIn](https://www.linkedin.com/in/cbmorales/?locale=en_US), [Discord](https://discord.com/users/vizcacha#9151/)
 - 🤓 Fun fact: I'm really good at recognizing faces
 - 💬 Ask me about: Food, design, dogs
 
 
-## My current tools:
+## I mainly work with:
 
 ![HTML](https://img.shields.io/badge/-HTML-%23E44D27?&logo=html5&logoColor=ffffff)
 ![CSS](https://img.shields.io/badge/-CSS-%231572B6?&logo=css3)
