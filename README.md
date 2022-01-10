@@ -7,6 +7,7 @@
 - 😊 Pronouns: 🇬🇧 She/her - 🇪🇸 Ella
 - 🌱 I’m currently learning: Advanced Javascript
 - 📈 I want to learn: React, Vue, Swift
+- 📢 Languages spoken: Spanish (native), English (C1-ish)
 - 📬 How to reach me: [LinkedIn](https://www.linkedin.com/in/cbmorales/?locale=en_US)
 - 🤓 Fun fact: I'm really good at recognizing faces
 - 💬 Ask me about: Food, design, dogs
