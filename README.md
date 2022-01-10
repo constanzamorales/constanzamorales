@@ -1,6 +1,4 @@
-### Hi there 👋
-![Visitor Count](https://profile-counter.glitch.me/constanzamorales/count.svg)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=constanzamorales&left_color=black&right_color=blue)
 <!--
 **constanzamorales/constanzamorales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
