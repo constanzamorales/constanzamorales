@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+![Visitor Count](https://profile-counter.glitch.me/constanzamorales/count.svg)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 <!--
 **constanzamorales/constanzamorales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,5 +24,3 @@ Here are some ideas to get you started:
   <li>UX/UI Design at Cotalker</li>
   <li>Learning Swift</li>
 </ul>
-![Visitor Count](https://profile-counter.glitch.me/constanzamorales/count.svg)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
