@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hello World!</h1>
 
-<p>My name is Kevin, and here are a few things I'm working on:</p>
+<p>My name is Constanza, and here are a few things I'm working on:</p>
 
 <ul>
-  <li>Happy Coding</li>
-  <li>Software Product Sprint</li>
-  <li>Google Maps</li>
+  <li>Fullstack Javascript Bootcamp by Talento Digital</li>
+  <li>UX/UI Design at Cotalker</li>
+  <li>Learning Swift</li>
 </ul>
 ![Visitor Count](https://profile-counter.glitch.me/constanzamorales/count.svg)
