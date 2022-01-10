@@ -20,7 +20,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=javascript&logoColor=000000)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?&logo=sass&logoColor=ffffff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?&logo=bootstrap&logoColor=ffffff)
-![Bulma](https://img.shields.io/badge/-Bulma-00D1B2?&logo=bootstrap&logoColor=ffffff)
+![Bulma](https://img.shields.io/badge/-Bulma-00D1B2?&logo=bulma&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?&logo=git&logoColor=%23ffffff)
 ![Github](https://img.shields.io/badge/-Github-%231a202c?&logo=github&logoColor=ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?&logo=visual-studio-code)
