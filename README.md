@@ -24,3 +24,4 @@ Here are some ideas to get you started:
   <li>Learning Swift</li>
 </ul>
 ![Visitor Count](https://profile-counter.glitch.me/constanzamorales/count.svg)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
