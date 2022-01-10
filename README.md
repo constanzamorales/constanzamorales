@@ -15,9 +15,11 @@
 
 ## I mainly work with:
 
-![HTML](https://img.shields.io/badge/-HTML-%23E44D27?&logo=html5&logoColor=ffffff)
-![CSS](https://img.shields.io/badge/-CSS-%231572B6?&logo=css3)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?&logo=html5&logoColor=ffffff)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=javascript&logoColor=000000)
+![Node](https://img.shields.io/badge/-Node-339933?&logo=node&logoColor=ffffff)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?&logo=figma&logoColor=ffffff)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?&logo=sass&logoColor=ffffff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?&logo=bootstrap&logoColor=ffffff)
 ![Bulma](https://img.shields.io/badge/-Bulma-00D1B2?&logo=bulma&logoColor=ffffff)
@@ -25,3 +27,5 @@
 ![Github](https://img.shields.io/badge/-Github-%231a202c?&logo=github&logoColor=ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?&logo=visual-studio-code)
 ![iTerm2](https://img.shields.io/badge/-iTerm2-000000?&logo=iterm2)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=constanzamorales&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
