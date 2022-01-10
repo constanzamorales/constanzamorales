@@ -6,7 +6,7 @@
 ## A bit more about me:
 - 😊 Pronouns: 🇬🇧 She/her - 🇪🇸 Ella
 - 🌱 I’m currently learning: Advanced Javascript
-- 📈 I want to learn: React, Vue, Swift
+- 📈 I want to learn: React, Vue, TypeScript, Swift
 - 📢 Languages spoken: 🇪🇸 Spanish (native), 🇬🇧 English (C1-ish)
 - 📬 How to reach me: [LinkedIn](https://www.linkedin.com/in/cbmorales/?locale=en_US), [Discord](https://discord.com/users/vizcacha#9151/)
 - 🤓 Fun fact: I'm really good at recognizing faces
@@ -17,8 +17,11 @@
 
 ![HTML](https://img.shields.io/badge/-HTML-%23E44D27?&logo=html5&logoColor=ffffff)
 ![CSS](https://img.shields.io/badge/-CSS-%231572B6?&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?&logo=javascript&logoColor=000000)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=javascript&logoColor=000000)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?&logo=sass&logoColor=ffffff)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?&logo=bootstrap&logoColor=ffffff)
+![Bulma](https://img.shields.io/badge/-Bulma-00D1B2?&logo=bootstrap&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?&logo=git&logoColor=%23ffffff)
 ![Github](https://img.shields.io/badge/-Github-%231a202c?&logo=github&logoColor=ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?&logo=visual-studio-code)
+![iTerm2](https://img.shields.io/badge/-iTerm2-000000?&logo=iterm2)
