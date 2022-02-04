@@ -5,7 +5,7 @@
 
 ## A bit more about me:
 - 😊 Pronouns: 🇬🇧 She/her - 🇪🇸 Ella
-- 🌱 I’m currently learning: Advanced Javascript
+- 🌱 I’m currently learning: Fullstack Javascript
 - 📈 I want to learn: ![React](https://img.shields.io/badge/-React-61DAFB?&logo=react&logoColor=000000) ![Vue](https://img.shields.io/badge/-Vue-4FC08D?&logo=vuedotjs&logoColor=ffffff) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?&logo=typescript&logoColor=ffffff) ![Swift](https://img.shields.io/badge/-Swift-F05138?&logo=swift&logoColor=ffffff)
 - 📢 Languages spoken: 🇪🇸 Spanish (native), 🇬🇧 English (C1-ish)
 - 📬 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cbmorales/?locale=en_US)](https://www.linkedin.com/in/cbmorales/?locale=en_US) [![Discord](https://img.shields.io/badge/-Discord-5865F2?&logo=Discord&logoColor=white&link=https://discord.com/users/vizcacha#9151/)](https://discord.com/users/vizcacha#9151/)
