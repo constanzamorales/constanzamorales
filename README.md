@@ -1,11 +1,11 @@
-<h1 align="center">Hello peeps! 🙋🏻‍♀️</h1>
+<h1 align="center">Hello there! 🙋🏻‍♀️</h1>
 
 <p align="center">My name is Constanza (or Coni), a designer and newbie developer from Chile 🇨🇱</p>
 <p">I finished a 470~ hours Fullstack Javascript Bootcamp and enjoyed that a lot. My main goal is to become a Front-End Engineer or Design Technologist. I love working on solving different problems and I believe my background in UI/UX Design has helped me become a super detail-oriented professional who can design and develop solutions with the end user in mind.</p>
 
 ## A bit more about me:
 - 😊 Pronouns: 🇬🇧 She/her - 🇪🇸 Ella
-- 🌱 I’m currently learning: ![React](https://img.shields.io/badge/-React-61DAFB?&logo=react&logoColor=000000)
+- 🌱 I’m currently learning: Advanced ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=javascript&logoColor=000000) ![React](https://img.shields.io/badge/-React-61DAFB?&logo=react&logoColor=000000)
 - 📈 I want to learn: ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?&logo=typescript&logoColor=ffffff) ![Swift](https://img.shields.io/badge/-Swift-F05138?&logo=swift&logoColor=ffffff)
 - 📢 Languages spoken: 🇪🇸 Spanish (native), 🇬🇧 English (C1-ish)
 - 📬 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cbmorales/?locale=en_US)](https://www.linkedin.com/in/cbmorales/?locale=en_US) [![Discord](https://img.shields.io/badge/-Discord-5865F2?&logo=Discord&logoColor=white&link=https://discord.com/users/Coni#9151/)](https://discord.com/users/Coni#9151/)
