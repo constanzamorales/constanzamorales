@@ -28,4 +28,4 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?&logo=visual-studio-code)
 ![iTerm2](https://img.shields.io/badge/-iTerm2-000000?&logo=iterm2)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=constanzamorales&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=constanzamorales)
