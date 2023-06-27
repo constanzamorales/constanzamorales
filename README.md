@@ -8,7 +8,7 @@
 - 📢 Languages: 🇪🇸 Spanish (native), 🇬🇧 English (C1-ish)
 - 📬 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cbmorales/?locale=en_US)](https://www.linkedin.com/in/cbmorales/?locale=en_US) [![Discord](https://img.shields.io/badge/-Discord-5865F2?&logo=Discord&logoColor=white&link=https://discord.com/users/bixby9151/)](https://discord.com/users/bixby9151/)
 - 🤓 Fun fact: I'm really good at recognizing faces 🔍
-- 💬 Ask me about: Food, design, dogs
+- 💬 Ask me about: Food, stationery, design, dogs
 
 
 ## I mainly work with:
