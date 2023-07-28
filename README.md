@@ -1,7 +1,7 @@
 <h1 align="center">Hello there! 🙋🏻‍♀️</h1>
 
 <p align="center">My name is Constanza (or Coni), a designer and web developer from Chile 🇨🇱</p>
-<p">In 2022 I finished a 470~ hours Fullstack Javascript Bootcamp and enjoyed that a lot, which pushed me to keep learning. My main goal is to become a Front-End Engineer or Design Technologist. I love working on solving different problems and I believe my background in UI/UX Design has helped me become a super detail-oriented professional who can design and develop solutions with the end user in mind.</p>
+<p">In 2022 I finished a Javascript Bootcamp and enjoyed that a lot, which pushed me to keep learning. My main goal is to become a Front-End Engineer or Design Technologist. I love working on solving different problems and I believe my background in UI/UX Design has helped me become a super detail-oriented professional who can design and develop solutions with the end user in mind.</p>
 
 ## A bit more about me:
 - 😊 Pronouns: 🇬🇧 She/her - 🇪🇸 Ella
